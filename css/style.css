@@ -7,6 +7,12 @@ body {
   color: #ffffff; 
 }
 
+
+.image-section img{
+  width: 300px; 
+  height: 200px; 
+}
+
 /* Header styles */
 .glass-header {
   display: flex;
