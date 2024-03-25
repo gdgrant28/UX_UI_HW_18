@@ -9,8 +9,9 @@ body {
 
 
 .image-section img{
-  width: 5px; 
-  height: 5px; 
+  width: 100px; 
+  height: 100px;
+  align-content: center; 
 }
 
 /* Header styles */
